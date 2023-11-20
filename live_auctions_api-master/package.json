@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/anagh07/live_auctions#readme",
   "dependencies": {
-   
+    "aws-sdk": "2.1499.0",
     "axios": "^0.24.0",
     "bcryptjs": "^2.4.3",
     "dotenv": "^10.0.0",
